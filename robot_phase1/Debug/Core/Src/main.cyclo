@@ -1,0 +1,11 @@
+../Core/Src/main.c:71:6:PWM_Init	1
+../Core/Src/main.c:91:6:Direction_Init	1
+../Core/Src/main.c:101:6:Encoder_Init	1
+../Core/Src/main.c:133:6:MX_USART1_UART_Init	2
+../Core/Src/main.c:168:6:Process_Command	9
+../Core/Src/main.c:212:6:HAL_UART_RxCpltCallback	13
+../Core/Src/main.c:256:5:main	4
+../Core/Src/main.c:345:6:SystemClock_Config	3
+../Core/Src/main.c:386:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:407:13:MX_GPIO_Init	1
+../Core/Src/main.c:434:6:Error_Handler	1
